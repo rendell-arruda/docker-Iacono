@@ -13,5 +13,5 @@ COPY . .
 # executar a aplicaçao apos construcao
 CMD ["node","src/index.js"]
 # expor a porta do container
-EXPOSE 3000
+EXPOSE 3000 
 # 
